@@ -89,29 +89,10 @@ title: Fuse - Project 1999 Guild
         </ol>
       </div>
 
-      <div class="important-documents">
-        <h3>Important Documents</h3>
-        <ul class="post-list">
-          <li><a href="https://docs.google.com/document/d/1X_LUI7dqXAIFFVK7NxF-F9iTrKn7ayj4lZtOf6KQ2zA/edit?usp=sharing">Constitution/Rules</a></li>
-          <li><a href="https://docs.google.com/document/d/1SRbJzTXWJv4T9ANpUaUTzJCphf-Nty3q6bEhKgTVGGI/edit?tab=t.0">Raid Expectations</a></li>
-          <li><a href="https://docs.google.com/document/d/1QBtem50cvm6NJJMYpiwUS3YDxoN2b7SSc3isDmzxhfM/edit?tab=t.0">DKP Rules</a></li>
-        </ul>
-      </div>
-
       <div class="application-note">
         <p><strong>Note:</strong> Please do not ping officers or recruiters about your application status. We review applications as quickly as possible and will contact you when ready.</p>
       </div>
     </section>
 
-    <section class="contact">
-      <h2>How to Join</h2>
-      <p>To apply to Fuse, please contact one of our officers in-game:</p>
-      <ul class="post-list">
-        <li>Officer1 (Main Contact)</li>
-        <li>Officer2</li>
-        <li>Officer3</li>
-      </ul>
-      <p>Or reach out to us on our Discord server: [Discord Link]</p>
-    </section>
   </div>
 </div> 
