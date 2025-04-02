@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Fuse - Project 1999 Guild
+title: Fuse - A Project 1999 Guild
 ---
 
 # Welcome to Fuse
-*A Project 1999 Guild*
 
 ## About Us
 Fuse is a dedicated guild on Project 1999, focused on creating a welcoming and supportive environment for all players. We value teamwork, respect, and the classic EverQuest experience.

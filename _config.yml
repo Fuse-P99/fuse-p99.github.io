@@ -6,7 +6,7 @@ theme: minima
 minima:
   skin: classic
   date_format: "%b %-d, %Y"
-  nav_pages:
+  navigation_pages:
     - index.md
     - finances.md
     - constitution.md
