@@ -8,16 +8,4 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 
 
-# Collections
-collections:
-  finances:
-    output: true
-    permalink: /finances/:year/:month/:title
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "finances"
-    values:
-      layout: "finance"
