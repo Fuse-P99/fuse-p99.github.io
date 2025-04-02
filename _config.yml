@@ -1,11 +1,20 @@
 title: Fuse - Project 1999 Guild
-description: Official website for the Fuse guild on Project 1999
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: A dedicated guild on Project 1999, focused on creating a welcoming and supportive environment for all players.
+theme: minima
+
+# Minima theme settings
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  nav_pages:
+    - index.md
+    - finances.md
+    - constitution.md
+    - raid-expectations.md
+    - dkp-rules.md
 
 # Build settings
 markdown: kramdown
-remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
