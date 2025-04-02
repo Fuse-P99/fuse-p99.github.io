@@ -4,7 +4,7 @@ title: Fuse - Project 1999 Guild
 ---
 
 <div class="hero">
-  <img src="{{ '/assets/images/fuse-logo.png' | relative_url }}" alt="Fuse Guild Logo" class="logo-image">
+  <img src="{{ '/assets/images/fuse-logo.webp' | relative_url }}" alt="Fuse Guild Logo" class="logo-image">
   <h1>Welcome to Fuse</h1>
   <p class="subtitle">A Project 1999 Guild</p>
 </div>
