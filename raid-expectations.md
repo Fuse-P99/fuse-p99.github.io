@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Raid Expectations
+title: Raiding
 ---
 
-# Raid Expectations
+
 
 Fuse has no raid attendance requirement. If you do attend raids, strive to meet the following expectations:
 
@@ -42,13 +42,13 @@ Fuse has no raid attendance requirement. If you do attend raids, strive to meet 
 |-------|-------------------------|----------------------|
 | Warrior | Be able to tank and when appropriate (macro, aggro, rampage, positioning)<br>Use appropriate discipline<br>Be prepared to pick up a mob and know when you should not | Organize main tank list<br>Manage aggro as backup tank |
 | Shadow Knight | Be able to tank when appropriate (macro, aggro, rampage, positioning) | Organize trash tank list<br>Assist with snap aggro on charm pet breaks |
-| Paladin | Be able to tank when appropriate (macro, aggro, rampage, positioning) | DA engage, DA train away<br>Organize trash tank list<br>Assist with snap aggro on charm pet breaks<br>Maintain and use Soulfire to cover CH chain gaps |
+| Paladin | Be able to tank when appropriate (macro, aggro, rampage, positioning)<br>DA engage, DA train away | Organize trash tank list<br>Assist with snap aggro on charm pet breaks<br>Maintain and use Soulfire to cover CH chain gaps |
 | Cleric | Operate in a CH chain (macros, timing)<br>Understand positioning for all encounters | Utilize sky neck, reapers to stabilize instant engages |
 | Druid | Prioritize raid mobilization<br>Form and lead dps groups<br>Provide patch heals (and know when to do so) | Maintain charm pet when applicable<br>Use harmony and egress to assist with pulls<br>Assist procurement of charm pets using egress |
 | Shaman | Aggro management when slowing<br>Form and lead dps groups<br>Provide patch heals (and know when to do so) | Early slow with PoS FD ring<br>Use bind sight to assist with pulls and raid organization |
-| Monk | Understand how aggro works and monitor aggro for pulls/engages<br>Manage aggro, fd when appropriate | Be prepared and able to dirty tag and goaltend<br>Be prepared to bump using voiddance<br>Advanced zone specific pulling (i.e. ToV, PoH)<br>Maintain train away with FD toggle<br>Position to FTE when appropriate |
-| Rogue | Manage aggro, evade on cooldown<br>Mobilize to mobs using sneak/hide | Corpse recovery<br>Manage disciplines, prepare for nimble bump<br>Position to FTE when appropriate |
-| Ranger | Manage aggro to limit hate on tank death | Weaponshield bump<br>Assist with charm pet management<br>Assist with pulls and raid organization<br>FTE on appropriate racelines |
+| Monk | Understand how aggro works and monitor aggro for pulls/engages<br>Manage aggro, fd when appropriate<br>Be prepared and able to dirty tag and goaltend | Be prepared to bump using voiddance<br>Advanced zone specific pulling (i.e. ToV, PoH)<br>Maintain train away with FD toggle<br>Position to FTE when appropriate |
+| Rogue | Manage aggro, evade on cooldown<br>Mobilize to mobs using sneak/hide<br>Corpse recovery | Manage disciplines, prepare for nimble bump<br>Position to FTE when appropriate |
+| Ranger | Manage aggro to limit hate on tank death<br>Weaponshield bump<br>Assist with charm pet management | Assist with pulls and raid organization<br>FTE on appropriate racelines |
 | Bard | Form and lead cleric and tank groups<br>OOS and Fufil's all slowable mobs | Advanced zone specific pulling (i.e. ToV, PoH, VP)<br>Manage disciplines, prepare for deft dance<br>Use bind sight to assist with pulls and raid organization<br>FTE on appropriate racelines<br>DA train to mobilize or train away for raid |
 | Wizard | Prioritize raid mobilization and preparation (sky/hate ports)<br>Be prepared to kite (maintain sow, flux staff) | Use bind sight to assist with pulls and raid organization<br>Use abscond to assist with pulls<br>Assist procurement of charm pets using evacuate |
 | Mage | Operate raid CotH (macro, timing, order)<br>Maintain pet when applicable | DA train to mobilize or train away for raid |

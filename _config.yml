@@ -1,18 +1,21 @@
-title: Fuse - Project 1999 Guild
+title: Fuse Guild
+
 description: A dedicated guild on Project 1999, focused on creating a welcoming and supportive environment for all players.
-theme: minima
+theme: jekyll-theme-chirpy
 
 # Minima theme settings
 minima:
-  skin: classic
+  skin: dark
   date_format: "%b %-d, %Y"
-  navigation_pages:
-    - index.md
-    - how-to-join.md
-    - constitution.md
-    - raid-expectations.md
-    - dkp-rules.md
-    - finances/index.md
+
+# Navigation
+navigation_pages:
+  - index.md
+  - how-to-join.md
+  - constitution.md
+  - raid-expectations.md
+  - dkp-rules.md
+
 
 # Build settings
 markdown: kramdown

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: DKP Rules
+title: DKP
 ---
 
-# DKP
+
 
 * You can check your DKP using Garanel Rucksif. Send him a private message "$who" and it will display your characters, current DKP, attendance, and recent items. If you'd like to see an exhaustive list of purchased items or pending raids, you can use "$who info."
 * Your Discord handle is your "main" with all your characters attached. If you change your Discord handle for whatever reason, please post it into #other-corrections channel on Fuse DKP server.
@@ -76,11 +76,10 @@ Example:
 If there is a pattern of DKP abuse, an officer will approach the offender in question to discuss. Disciplinary action may be taken, ranging from log removal, to DKP docking, to guild removal.
 
 ### Special Considerations:
-
-#### Idol camp:
+**Idol camp:**
 * If a raid happens while you are at the idol camp, ask an officer or raid leader if they need you to log over to assist. If your help is not not needed at the raid, you can add yourself to that event.
 
-#### Porter role:
+**Porter role:**
 * Individuals occupying the porter role cannot add themselves to raid logs. If a raid occurs, quickly finish porting, sign out, and attend the raid in question.
 
 ### General reminders
@@ -186,32 +185,31 @@ Examples of Joker Phone targets:
   * Exception(s): Dread, Essedera, Fright, Lepethida, Lord Yelinak, Terror, and Venril Sathir are [3 DKP/hr]
 
 ### Competitive Tracking
+* COTH mage [coth]: [6 DKP] per hour)
+  * This person is COTHing for the instant engagement of a mob (The Final Arbiter, Trakanon, The Statue of Rallos Zek, King Tormax, etc.). Special exceptions can be approved by officers–in certain circumstances, Lady Nevederia and Jorlleag can be instant engages and require a COTH mage.
+  * Exception(s): The Statue of Rallos Zek & King Tormax are [10 DKP/hr]
+    * The Final Arbiter, Trakanon, Velketor the Sorcerer are [3 DKP/hr]
 
-#### COTH mage [coth]: [6 DKP] per hour)
-* This person is COTHing for the instant engagement of a mob (The Final Arbiter, Trakanon, The Statue of Rallos Zek, King Tormax, etc.). Special exceptions can be approved by officers–in certain circumstances, Lady Nevederia and Jorlleag can be instant engages and require a COTH mage.
-* Exception(s): The Statue of Rallos Zek & King Tormax are [10 DKP/hr]
-* The Final Arbiter, Trakanon, Velketor the Sorcerer are [3 DKP/hr]
+* FTE racer [fte]: [6 DKP] (per hour)
+  * This role applies to individuals racing to engage a mob and only applies to instant-engage scenarios.
+  * FTE racers will only be paid hourly DKP if they are on a toon that has a reasonable chance to win. For example, non-bow classes racing for MotG do not stand a reasonable chance of winning FTE. Non-bards racing for PoFear targets or Gorenaire do not stand a reasonable chance to win FTE (unless grouped with a bard). There are rare exceptions, but do not sign up for this role unless you are playing a class that has a chance to win.
+  * Exception(s): The Statue of Rallos Zek & King Tormax are [10 DKP/hr]
+    * Kelorek`Dar, Master of the Guard, and The Progenitor are [3 DKP/hr].
 
-#### FTE racer [fte]: [6 DKP] (per hour)
-* This role applies to individuals racing to engage a mob and only applies to instant-engage scenarios.
-* FTE racers will only be paid hourly DKP if they are on a toon that has a reasonable chance to win. For example, non-bow classes racing for MotG do not stand a reasonable chance of winning FTE. Non-bards racing for PoFear targets or Gorenaire do not stand a reasonable chance to win FTE (unless grouped with a bard). There are rare exceptions, but do not sign up for this role unless you are playing a class that has a chance to win.
-* Exception(s): The Statue of Rallos Zek & King Tormax are [10 DKP/hr]
-* Kelorek`Dar, Master of the Guard, and The Progenitor are [3 DKP/hr].
-
-#### Engage team (typically linked to a COTH mage) [etxxx]: [5 DKP] (per hour)
-* The engage team role applies to characters that are necessary at the point of engagement. All engagements require, at a minimum, a tank (or tanks) and clerics.
-* There are rare circumstances where other classes may be eligible for an engage team (rare cases of bumpers and slowers), but, as a rule of thumb: if you are not on a warrior or a cleric, you can likely sign in when a Batphone goes out to no ill effect.
-* For example, a rogue should never be part of a Lord Yelinak engage team but, on Trakanon, etrog is completely acceptable because we need rogues at Trakanon as quickly as possible.
-* If you don't understand an individual encounter and whether or not you qualify for engage team status, reach out to an officer for clarification.
-* For engages that require COTHs, engage teams are limited to the number of mage(s) x5–if there are two mages online, an engage team can have a maximum size of 10 players. If you are not in the first 5 COTHs, you can simply respond to a Batphone as you usually would.
+* Engage team (typically linked to a COTH mage) [etxxx]: [5 DKP] (per hour)
+  * The engage team role applies to characters that are necessary at the point of engagement. All engagements require, at a minimum, a tank (or tanks) and clerics.
+  * There are rare circumstances where other classes may be eligible for an engage team (rare cases of bumpers and slowers), but, as a rule of thumb: if you are not on a warrior or a cleric, you can likely sign in when a Batphone goes out to no ill effect.
+  * For example, a rogue should never be part of a Lord Yelinak engage team but, on Trakanon, etrog is completely acceptable because we need rogues at Trakanon as quickly as possible.
+  * If you don't understand an individual encounter and whether or not you qualify for engage team status, reach out to an officer for clarification.
+  * For engages that require COTHs, engage teams are limited to the number of mage(s) x5–if there are two mages online, an engage team can have a maximum size of 10 players. If you are not in the first 5 COTHs, you can simply respond to a Batphone as you usually would.
 
 General rules for engage team without officer approval (for approval, ping @Officers):
 * First half of window: tracker only
 * Second half of window: engage team with COTH mage
 * Last quarter of window: full sock
 
-#### Buffing engage/pull team [buff]: [3 DKP] (per hour)
-* This applies to players that are actively buffing our racers/engage team members.
+* Buffing engage/pull team [buff]: [3 DKP] (per hour)
+  * This applies to players that are actively buffing our racers/engage team members.
 
 ### Misc
 * Trackers who find Magi P`Tasa up and Batphone him will receive a 15 DKP bonus.
@@ -226,6 +224,7 @@ General rules for engage team without officer approval (for approval, ping @Offi
   * If Gravity (or another entity) only has one person in line after us, two people are authorized to use the !idol role (Fuse > Gravity > Fuse).
   * If Gravity (or another entity) has two people in line after us, three people are authorized to use the !idol role (Fuse > Gravity> Fuse > Gravity > Fuse).
   * Note: The guild bank will also buy idols for market value (if you find one for sale in EC).
+
 * Logistics role [6 DKP] (per hour)
   * This role is reserved for helping with guild logistics.
 * Porter role [4 DKP] (per hour)
@@ -274,113 +273,106 @@ Request DKP for your powerleveling efforts in #other-dkp-earned like so:
 
 DKP will be awarded for the procurement of the following items delivered to officers or raiders:
 
-| Item | DKP Value |
-|------|-----------|
-| Soulfire | 20 DKP |
-| Scepter of the Forlorn | 10 DKP |
-| Wand of Mana Tapping | 10 DKP |
-| Reaper of the Dead | 3 DKP |
-| Shiny Brass Idol | 2 DKP |
+* Soulfire - 20 DKP
+* Scepter of the Forlorn - 10 DKP
+* Wand of Mana Tapping - 10 DKP
+* Reaper of the Dead - 3 DKP
+* Shiny Brass Idol - 2 DKP
 
 DKP will be awarded after proof is shown in RDKP > #other-dkp-earned
 
 ## DKP Rates for Batphone targets
 
 ### Mobs
-
-| Mob | DKP Value |
-|-----|-----------|
-| Aaryonar | 8 DKP |
-| Avatar of War, The | 11 DKP |
-| Cazic Thule | 11 DKP |
-| Cekenar | 8 DKP |
-| Dagarn the Destroyer | 8 DKP |
-| Dain Frostreaver IV | 11 DKP |
-| Derakor the Vindicator | 2 DKP ¹ |
-| Dracoliche | 5 DKP |
-| Dread | 3 DKP |
-| Druushk | 5 DKP |
-| Dozekar the Cursed | 11 DKP |
-| Essedera | 3 DKP |
-| Eashen of the Sky | 8 DKP |
-| Faydedar | 3 DKP ¹ |
-| Feshlak, Lord | 8 DKP |
-| Final Arbiter, The | 3 DKP |
-| Fright | 3 DKP |
-| Gorenaire | 5 DKP |
-| Gozzrem | 3 DKP |
-| Guardian Takish | 6 DKP |
-| Halls of Testing Minis (non-Lepethida/Essedera) | 1 DKP ¹ |
-| Hate, Plane of Minis (non-Magi P`Tasa) | 1 DKP |
-| Hoshkar | 8 DKP |
-| Ikatiar the Venom | 5 DKP |
-| Innoruuk | 5 DKP ¹ |
-| Jorlleag | 8 DKP |
-| Kelorek`Dar | 5 DKP |
-| King Tormax | 11 DKP |
-| Klandicar | 8 DKP |
-| Koi`Doken, Lord | 11 DKP |
-| Kreizenn, Lord | 8 DKP |
-| Lendinaria the Keeper | 8 DKP |
-| Lepethida | 3 DKP |
-| Magi P'Tasa | 3 DKP ¹ |
-| Master of the Guard | 3 DKP |
-| Mirenilla, Lady | 11 DKP |
-| Nagafen, Lord | 3 DKP |
-| Nevederia, Lady | 8 DKP |
-| Nexona | 5 DKP |
-| Phara Dar | 8 DKP |
-| Progenitor, The | 3 DKP |
-| Sevalak | 8 DKP |
-| Severilous | 5 DKP |
-| Silverwing | 5 DKP |
-| Sontalak | 8 DKP ¹ |
-| Statue of Rallos Zek, The | 5 DKP |
-| Talendor | 3 DKP ¹ |
-| Telkorenor | 3 DKP |
-| Terror | 3 DKP |
-| Trakanon | 5 DKP |
-| Tunare | 11 DKP |
-| Vaniki | 5 DKP |
-| Velketor the Sorcerer | 3 DKP |
-| Venril Sathir | 3 DKP |
-| Vox, Lady | 5 DKP |
-| Vulak`Aerr | 11 DKP |
-| Vyemm, Lord | 11 DKP |
-| Xygoz | 5 DKP |
-| Wuoshi | 3 DKP ¹ |
-| Yelinak, Lord | 11 DKP |
-| Zlandicar | 11 DKP |
-| Zlexak | 8 DKP |
+* Aaryonar [8 DKP]
+* Avatar of War, The [11 DKP]
+* Cazic Thule [11 DKP]
+* Cekenar [8 DKP]
+* Dagarn the Destroyer [8 DKP]
+* Dain Frostreaver IV [11 DKP]
+* Derakor the Vindicator [2 DKP] ¹
+* Dracoliche [5 DKP]
+* Dread [3 DKP]
+* Druushk [5 DKP]
+* Dozekar the Cursed [11 DKP]
+* Essedera [3 DKP]
+* Eashen of the Sky [8 DKP]
+* Faydedar [3 DKP] ¹
+* Feshlak, Lord [8 DKP]
+* Final Arbiter, The [3 DKP]
+* Fright [3 DKP]
+* Gorenaire [5 DKP]
+* Gozzrem [3 DKP]
+* Guardian Takish [6 DKP]
+* Halls of Testing Minis (non-Lepethida/Essedera) [1 DKP] ¹
+* Hate, Plane of Minis (non-Magi P`Tasa) [1 DKP]
+* Hoshkar [8 DKP]
+* Ikatiar the Venom [5 DKP]
+* Innoruuk [5 DKP] ¹
+* Jorlleag [8 DKP]
+* Kelorek`Dar [5 DKP]
+* King Tormax [11 DKP]
+* Klandicar [8 DKP]
+* Koi`Doken, Lord [11 DKP]
+* Kreizenn, Lord [8 DKP]
+* Lendinaria the Keeper [8 DKP]
+* Lepethida [3 DKP]
+* Magi P'Tasa [3 DKP] ¹
+* Master of the Guard [3 DKP]
+* Mirenilla, Lady [11 DKP]
+* Nagafen, Lord [3 DKP]
+* Nevederia, Lady [8 DKP]
+* Nexona [5 DKP]
+* Phara Dar [8 DKP]
+* Progenitor, The [3 DKP]
+* Sevalak [8 DKP]
+* Severilous [5 DKP]
+* Silverwing [5 DKP]
+* Sontalak [8 DKP] ¹
+* Statue of Rallos Zek, The [5 DKP]
+* Talendor [3 DKP] ¹
+* Telkorenor [3 DKP]
+* Terror [3 DKP]
+* Trakanon [5 DKP]
+* Tunare [11 DKP]
+* Vaniki [5 DKP]
+* Velketor the Sorcerer [3 DKP]
+* Venril Sathir [3 DKP]
+* Vox, Lady [5 DKP]
+* Vulak`Aerr [11 DKP]
+* Vyemm, Lord [11 DKP]
+* Xygoz [5 DKP]
+* Wuoshi [3 DKP] ¹
+* Yelinak, Lord [11 DKP]
+* Zlandicar [11 DKP]
+* Zlexak [8 DKP]
 
 ### Miscellaneous
-
-| Target | DKP Value | Notes |
-|--------|-----------|-------|
-| Guardian Kozzalym | 3 DKP | DKP log will be taken shortly before spawn–not at time of death. On quakes, a strike team should try to FTE Guardian Kozzalym. They will be able to add themselves to initial quake logs (e.g. first target) and everyone can bid on loot from either event. |
-| Noble Dojorn | 3 DKP | Only when killed outside of a regular Sky raid |
-| Tuna Melt™ | 25 DKP per attempt | Necros will be rewarded 10 DKP per attempt |
-| Ring War | | |
-| On time bonus | 3 DKP | ² |
-| Waves 1, 2, 3 finished | 5 DKP | |
-| Narandi the Wretched | 3 DKP | |
+* Guardian Kozzalym [3 DKP]
+  * DKP log for Guardian Kozzalym will be taken shortly before spawn–not at time of death.
+  * On quakes, a strike team should try to FTE Guardian Kozzalym. They will be able to add themselves to initial quake logs (e.g. first target) and everyone can bid on loot from either event.
+* Noble Dojorn [3 DKP] [only when killed outside of a regular Sky raid]
+* Tuna Melt™ [25 DKP per attempt]
+  * Necros will be rewarded 10 DKP per attempt
+* Ring War
+  * On time bonus [3 DKP] ²
+  * Waves 1, 2, 3 finished [5 DKP]
+  * Narandi the Wretched [3 DKP]
 
 ### Hourly
-
-| Event | DKP Value | Notes |
-|-------|-----------|-------|
-| Halls of Testing | 6 DKP (per hour) | ³ |
-| Plane of Growth | 6 DKP (per hour) | |
-| Plane of Sky | 6 DKP (per hour) | |
-| Plane of Sky on time bonus | 4 DKP | ² |
-| Sleeper's Tomb clear hourly | 2 DKP (per hour) | ³ |
-| Temple of Veeshan | 6 DKP (per hour) | Only for long clears–i.e. Lady Mirenilla/Lord Koi`Doken |
+* Halls of Testing [6 DKP] (per hour) ³
+* Plane of Growth [6 DKP] (per hour)
+* Plane of Sky [6 DKP] (per hour)
+* Plane of Sky on time bonus [4 DKP] ²
+* Sleeper's Tomb clear hourly [2 DKP] (per hour) ³
+* Temple of Veeshan [6 DKP] (per hour) - this is only for long clears–i.e. Lady Mirenilla/Lord Koi`Doken
 
 ### Remarks
 * Mobs with a DKP value greater than 3 will give a nokill-dkp reward of 3. Mobs with a DKP value less than or equal to 3 will not give any nokill-dkp reward (exceptions: Fear golems will give 1 DKP for a no kill).
-* ¹ No tracking DKP will be awarded (even when set as target!).
-* ² On time bonus will be taken roughly 10 minutes after the Batphone.
-* ³ Batphoning ST clears and DKP HoT must be cleared with an officer or guild leader. Only applies if and when a suitable raid force can be mustered.
+
+¹ No tracking DKP will be awarded (even when set as target!).
+² On time bonus will be taken roughly 10 minutes after the Batphone.
+³ Batphoning ST clears and DKP HoT must be cleared with an officer or guild leader. Only applies if and when a suitable raid force can be mustered.
 
 ## Ring War Turn-in
 
@@ -403,7 +395,7 @@ On select targets there maybe additional DKP awarded for FTEs. Bonuses for conte
 * Guardian Takish
 * King Tormax (50 DKP FTE bonus on earthquake)
 * Statue of Rallos Zek, The
-* 15 DKP pull team bonus (does not apply to Dozekar The Cursed)
+15 DKP pull team bonus (does not apply to Dozekar The Cursed)
 
 ### 75 DKP
 * Dain Frostreaver IV
@@ -411,7 +403,7 @@ On select targets there maybe additional DKP awarded for FTEs. Bonuses for conte
 * Phara Dar
 * Hoshkar (only in instant scenarios)
 * Severilous
-* 15 DKP pull team bonus
+15 DKP pull team bonus
 
 ### 50 DKP
 * Cekenar
@@ -429,12 +421,12 @@ On select targets there maybe additional DKP awarded for FTEs. Bonuses for conte
 * Yelinak, Lord
 * Zlandicar
 * Zlexak
-* 10 DKP pull team bonus (only applies to actual pulls, e.g. no Zlandicar, Jorlleag, Cekenar, etc.)
-* 50 DKP COTH FTE bonus for both the COTHer and the COTHee (Only applies to instant engage scenarios; if doubles/triples aren't instant engages, they are ineligible for this bonus. This most regularly applies to Zlandicar and Lord Yelinak)
+10 DKP pull team bonus (only applies to actual pulls, e.g. no Zlandicar, Jorlleag, Cekenar, etc.)
+50 DKP COTH FTE bonus for both the COTHer and the COTHee (Only applies to instant engage scenarios; if doubles/triples aren't instant engages, they are ineligible for this bonus. This most regularly applies to Zlandicar and Lord Yelinak)
 
 ### 30 DKP
 * Vaniki
-* 5 DKP pull team bonus
+5 DKP pull team bonus
 
 ### 20 DKP
 * Dread (non-CT spawns)
@@ -444,14 +436,14 @@ On select targets there maybe additional DKP awarded for FTEs. Bonuses for conte
 * Velketor the Sorcerer (only applies to FTE-on-COTH scenarios, 20 DKP to COTH/COTHee)
 * Terror (non-CT spawns)
 * Trakanon
-* 5 DKP pull team bonus (applies to kiters and DT takers–does not apply to Guardian Kozzalym)
+5 DKP pull team bonus (applies to kiters and DT takers–does not apply to Guardian Kozzalym)
 
 ### Caveats:
 * FTE bonuses are only awarded in race-on-spawn scenarios–if we are not instantly engaging a mob (i.e. we have time to gather for Zlandicar or Hoshkar or Dain), no FTE bonuses will be awarded.
 * FTE bonuses for COTH engages will be awarded to the winning mage/FTEr only.
 * FTE bonuses are only awarded on contested targets. This means if our competitors are locked into other targets, no bonus will be awarded. If our competitors are not locked into other targets but not actively racing for the target in question, no FTE bonus is awarded.
-* Always race for the most valuable mob you can feasibly race for. (e.g. when Gorenaire is in window, prioritize Gorenaire over Kelorek`Dar (lower DKP value) or ST golems (3 day spawns).
+* Always race for the most valuable mob you can feasibly race for. (e.g. when Gorenaire is in window, prioritize Gorenaire over Kelorek`Dar (lower DKP value) or ST golems (3 day spawns)).
 * FTE bonuses are only intended for non-earthquake spawns only (exception: King Tormax)
 * DKP bonuses for the FTEr will be awarded even if we fail to kill the target, pull team is not eligible for bonuses if no-kill.
 * FTE bonuses are only awarded on the initial race for FTE–picking up a dropped FTE is not the same as winning a FTE race.
-* Pull team bonus only applies on contested, race-on-spawn scenarios. Only the racers that were signed up at the time of spawn are eligible for the pull team bonus.
+* Pull team bonus only applies on contested, race-on-spawn scenarios. Only the racers that were signed up at the time of spawn are eligible for the pull team bonus. 

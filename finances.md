@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Guild Finances
+title: Donations
 ---
 
-# Guild Finances
 
 ## Current Balance
 As of April 2024: **2000pp**
@@ -36,8 +35,3 @@ As of April 2024: **2000pp**
 | Total Donations | 5000pp |
 | Total Expenses | 3000pp |
 | **Ending Balance** | **2000pp** |
-
-## Previous Statements
-- March 2024
-- February 2024
-- January 2024 

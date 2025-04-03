@@ -1,80 +1,62 @@
 ---
 layout: page
-title: How to Join Fuse
-nav-order: 1
+title: Join
 ---
 
-# How to Join Fuse
+# Welcome to Fuse Guild Recruitment!
 
-## About Us
-Fuse is a dedicated guild on Project 1999, focused on creating a welcoming and supportive environment for all players. We value teamwork, respect, and the classic EverQuest experience.
+Thank you for your interest in joining Fuse! Read this thread to understand our guild requirements, application, and recruitment process.
 
-## Recruitment
-Thank you for your interest in joining Fuse! Below you'll find our requirements, application process, and important information for prospective members.
+## Required Items
 
 ### Core Requirements
-* Level 46+ (exceptions may be made for exceptional players)
-* Discord access and willingness to communicate
-* Positive attitude and team-oriented mindset
-* Willingness to learn and improve
 * Magic Resist of at least 150 unbuffed
-* Required Items:
-  * Leatherfoot Raider's Skullcap (WC Cap)†
-  * 2x + 10 Dose Wort Potion (Do not use the last charge)
-  * Worker Sledgemallet (OT Hammer)
-  * Vial of Velium Vapors (Thurg Pot)
-  * Crystallized Pumice or other means to dispell
-  * Forlorn Totem of Rolfron Zek (stun totem) * †
-  * 2x + Thin Bone Wands * †
-  * Reaper of the Dead
+* Leatherfoot Raider's Skullcap (aka WC Cap)†
+* 2x + 10 Dose Wort Potion (Do not use the last charge as they are rechargeable, as long as they have 1 charge left. They poof after that! Click in 3s as the pros would say!)
+* Worker Sledgemallet (OT Hammer)
+* Vial of Velium Vapors (Thurg Pot) The guild has a mule for matts if needed!
+* Crystallized Pumice or other means to dispell (Spell casters can use cancel magic ect.. This is vendor purchasable!)
+* Forlorn Totem of Rolfron Zek (aka stun totem) * †
+* 2x + Thin Bone Wands * †
+* Reaper of the Dead
 
 ### Class-Specific Requirements
-* Warriors: Must be willing to tank and maintain appropriate gear
-* Clerics: Must be comfortable with CH chains and raid healing
-* Rogues: Must maintain appropriate weapons and backstab gear
-* All other classes: Must be willing to perform their class's primary role effectively
-* All casters must have:
-  * GCD (Global Cooldown Reset)
-  * Ability to increase run speed
-  * Ability to levitate
-  * Ability to shrink (except Gnomes/Halflings)
-  * Ability to instantly invisibility
-  * At least one clickable instant junk buff
+* All casters must have a GCD (Global Cooldown Reset) -- We suggest Star of Eyes, Shrunken Goblin Skull Earring, Tunare Belt, reaper ring, etc. all work!
+* Have the ability to increase run speed (Journeyman's Boots, 10 Dose Blood of the Wolf † or self cast spell/song acceptable)
+* Have the ability to levitate (Pegasus Feather Cloak is nice but Potion of Antiweight † is acceptable! There is also Vial of Roiling Gas from Chardok!) (SK/NEC Shai`din Revenant Bauble is nice to have)
+* Have the ability to shrink (Ant Potion † or spell is acceptable) This does not apply to Gnome or Halflings
+* Have the ability to instantly invisibility (all classes) (Ring of Shadows †, Circlet of Shadow ect...)
+* Have at least one clickable instant junk buff, usable indoors and out (Shrunken Goblin Skull Earring, Ring 8/10, Journeyman's Boots, Bracer of the hidden ect..)
 
 ### Suggested Items (Not Required)
-* Appropriate resist gear for your class
-* Primary weapons and armor for your level
-* Basic consumables (food, water, bandages)
-* Class-specific items (e.g., Soulfire for Paladins)
-* Additional helpful items:
-  * Bracer of the Hidden
-  * Black and Green Flower of Functionality
-  * Star of Eyes
-  * 1 Stack of Peridots and/or Pearls
-  * 2x + Stalking Probes * †
-  * 1 Stack of Batwings (for classes that can cast levitate)
+* Bracer of the Hidden (clickable instant buff + secondary agro tool)
+* Black and Green Flower of Functionality (trash buffs)
+* Star of Eyes (GCD + secondary agro)
+* 1 Stack of Peridots and/or Pearls
+* 2x + Stalking Probes * †
+* 1 Stack of Batwings for classes that can cast levitate
 
 ### Important Notes
-* **We do not require raid attendance**
-* We value quality over quantity in our members
-* We expect members to be respectful and helpful to others
-* We use a DKP system for raid loot distribution
-* All items marked with † can be recharged at guild recharge sessions
-* Forlorn Totem of Rolfron Zek, Thin Bone Wands and Stalking Probes are commonly used during pulls and tags
-* Porters are encouraged to keep one of these fully charged for easy recharging
+* All items marked with † can be recharged at guild recharge sessions (watch #announcements)
+* Forlorn Totem of Rolfron Zek, Thin Bone Wands and Stalking Probes are commonly used during pulls and tags - please keep extras to swap with pullers/tanks in need
+* † Porters are encouraged to keep one of these fully charged for easy recharging
 
-### Application Process
-1. Review Requirements
-   * Ensure you meet all the necessary criteria
-   * Gather required items
-2. Submit Application
-   * Fill out our application form at: [Application Form](https://forms.gle/7eqF1EyUjeHd17uZ6)
-   * Be thorough and honest in your responses
-3. Next Steps
-   * Our recruitment team will review your application
-   * You'll be contacted via Discord if we have any questions
-   * Successful applications will be invited to join as recruits
+## Application Process
 
-**Note:** Please do not ping officers or recruiters about your application status. We review applications as quickly as possible and will contact you when ready. 
+### Review Requirements
+* Ensure you meet all the necessary criteria
+* Gather required items
 
-[Apply Now](https://forms.gle/your-application-form-link) 
+### Submit Application
+* Fill out our application form [HERE](https://forms.gle/7eqF1EyUjeHd17uZ6)
+* Be thorough and honest in your responses
+
+### Next Steps
+* Our recruitment team will review your application
+* You'll be contacted via Discord if we have any questions
+* Successful applications will be invited to join as recruits
+
+**Note:** Please do not ping officers or recruiters about your application status.
+We review applications as quickly as possible and will contact you when ready.
+
+
