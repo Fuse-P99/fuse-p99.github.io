@@ -3,6 +3,10 @@ title: Fuse Guild
 description: A dedicated guild on Project 1999, focused on creating a welcoming and supportive environment for all players.
 theme: minima
 
+# Site settings
+favicon: /assets/images/favicon.ico
+logo: /assets/images/logo.png
+
 # Minima theme settings
 minima:
   skin: dark
