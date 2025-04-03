@@ -8,16 +8,30 @@ minima:
   date_format: "%b %-d, %Y"
   navigation_pages:
     - index.md
-    - finances.md
+    - how-to-join.md
     - constitution.md
     - raid-expectations.md
     - dkp-rules.md
+    - finances/index.md
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives
+
+# Archive settings
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-category
+    tag: archive-tag
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 
 
